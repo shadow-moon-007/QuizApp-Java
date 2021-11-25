@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="play">Play</string>
+    <string name="confirm">Confirm</string>
+    <string name="scores">Score</string>
+
+
+</resources>
